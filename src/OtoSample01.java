@@ -1,12 +1,12 @@
 import jp.jc21.t.yoshizawa.otopika.Otopika;
 
 /**
- * 
+ *
  */
 
 
 /**
- * @author t.yoshizawa
+ * @author @AUTHOR AB2B18
  *
  */
 public class OtoSample01  {

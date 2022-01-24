@@ -106,7 +106,7 @@ public class Otopika extends JFrame {
 
 	public void sleep(float time) {
 		try {
-			Thread.sleep((long) (1000 * time));
+			Thread.sleep((long) (1000 * tgime));
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
