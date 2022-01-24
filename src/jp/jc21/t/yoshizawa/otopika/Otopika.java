@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package jp.jc21.t.yoshizawa.otopika;
 
@@ -106,7 +106,7 @@ public class Otopika extends JFrame {
 
 	public void sleep(float time) {
 		try {
-			Thread.sleep((long) (1000 * tgime));
+			Thread.sleep((long) (1000 * time));
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
