@@ -27,8 +27,6 @@ public class OtoKadai06  {
 			oto1.sleep(3);
 			oto1.lightRed();
 			oto1.sleep();
-			oto1.lightOff();
-			oto2.lightOff();
 			oto1.lightRed();
 			oto2.lightGreen();
 			oto2.sleep(10);
